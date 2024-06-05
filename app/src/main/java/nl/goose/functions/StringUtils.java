@@ -1,4 +1,4 @@
-package nl.goose.utilis;
+package nl.goose.functions;
 
 public class StringUtils {
 
@@ -9,5 +9,4 @@ public class StringUtils {
         }
         return str;
     }
-
 }
